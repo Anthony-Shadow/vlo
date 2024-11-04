@@ -1,3 +1,6 @@
+*{
+    margin: 0%;
+} /* pas de marge et * tout le monde */
 .centtre {
     text-align: center;
     color: red;
@@ -14,3 +17,8 @@
     padding: 10px 90px;
     font-size: 50;
 }
+
+.acote {
+    display: inline-block;
+}
+
